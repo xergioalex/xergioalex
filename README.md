@@ -23,3 +23,7 @@ More info about me at my website: https://www.xergioalex.com/.
 - 💬 Ask me about technologies like Docker, Serverless, Django, Typescript, Cypress, AWS.
 - 📫 How to reach me: You can follow me on any social network shared above like twitter ([@xergioalex](https://twitter.com/XergioAleX)).
 - ⚡ Fun fact: My favorite videogames are any from **Zelda** saga and **Hollow Knight**.
+
+<a href="https://www.xergioalex.com/" target="_blank">
+  <img alt="XergioAleX Logo" src="xergioalex-logo.png" width="250">
+</a>

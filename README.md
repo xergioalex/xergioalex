@@ -6,6 +6,7 @@ System engineer and passionate entrepreneur, with talent and experience building
 I am a lover of computer science, music, art and video games. Involved with the entrepreneurial ecosystem, I am in search of the ideation of disruptive business models as agents of change and success.
 
 More info about me at my website: https://www.xergioalex.com/.
+Get insights about my tech skills on codersrank: https://profile.codersrank.io/user/xergioalex/.
 
 :computer: Also visit my profile on CodersRank to get insights about my tech skills: https://profile.codersrank.io/user/xergioalex.
 

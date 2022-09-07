@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Sergio Alexander Florez :computer: 
+# I'm Sergio Florez :computer: 
 
 System engineer and passionate entrepreneur, with talent and experience building digital business.
 I am a lover of computer science, music, art and video games. Involved with the entrepreneurial ecosystem, I am in search of the ideation of disruptive business models as agents of change and success.
@@ -16,7 +16,7 @@ More info about me at my website: https://www.xergioalex.com/.
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/xergioalex)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/xergioalex)
 
-- 🔭 I’m currently working on [Rocka Venture Builder](https://rocka.co/) developing products like [DailyBot](https://www.dailybot.com/) and [Bambú](https://www.appbambu.com/).
+- 🔭 I’m currently CTO at [DailyBot](https://dailybot.com/) (YC S21) - A toolkit to run successful remote teams: async work, team check-ins, ChatOps and more.
 - 🌱 I’m currently learning testing libraries to improve the solidity of my projects on Django and NodeJs with Typescript, I also want to learn GoLang.
 - 👯 I’m looking to collaborate on tech communities developing open source software.
 - 🤔 I’m looking for help with my abilities as speaker on tech communities.

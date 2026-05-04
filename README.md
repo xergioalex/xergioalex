@@ -110,8 +110,7 @@ Curated, multi-part deep dives — the format I use when one post isn't enough:
 
 ---
 
-<details>
-<summary>Random Facts</summary>
+### Random Facts
 
 - 🇨🇴 Born and based in Pereira, Colombia — proudly building from LATAM
 - 🤖 Asimov is my north star — *Bicentennial Man* opened the door, *Foundation* and the Three Laws sealed it; today I'm shipping the robots he was already drafting decades ago
@@ -121,7 +120,5 @@ Curated, multi-part deep dives — the format I use when one post isn't enough:
 - 📈 Algorithmic forex trading hobbyist — 2+ years deep, MQL4 bots and counting → [the trading journal](https://xergioalex.com/trading)
 - 🍳 Home cook & restaurant explorer — used to share a lot of it on [Instagram](https://www.instagram.com/xergioalex)
 - ☕ Coffee from the Eje Cafetero powers most of the commits
-
-</details>
 
 ---

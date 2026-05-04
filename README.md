@@ -25,6 +25,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-D72C00?style=flat-square&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF7A00?style=flat-square&logo=autodesk&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/-3D%20Printing-1F2632?style=flat-square&logo=cncf&logoColor=white)
@@ -64,6 +65,8 @@ Multilingual blog (EN/ES) on AI agents, mobile dev, AEO, trading, and product en
 - 🧪 **[pretext-lab](https://pretext.xergioalex.com)** — Interactive demo lab exploring text measurement decoupled from the DOM
 - 🔌 **[arduino-from-zero-to-expert](https://github.com/xergioalex/arduino-from-zero-to-expert)** — Hands-on Arduino notes and circuits — learning embedded systems from the ground up
 - 🖨️ **[fusion3603dProjects](https://github.com/xergioalex/fusion3603dProjects)** — Fusion 360 CAD models I'm designing and 3D-printing — learning the loop from screen to physical object
+- 🌸 **[kathelopez.com](https://github.com/xergioalex/kathelopez.com)** — Personal site I built for Katherine Lopez
+- 🎨 **[sebastianmartinezvanegas.com](https://github.com/xergioalex/sebastianmartinezvanegas.com)** — Personal site I built for Sebastián Martínez Vanegas (Astro)
 
 ## GitHub Activity
 

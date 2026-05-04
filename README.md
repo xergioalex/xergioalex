@@ -1,6 +1,6 @@
 # Hi, I'm Sergio 👋
 
-📍 **Pereira, Colombia 🇨🇴** | 🤖 **CTO & Co-founder at [Dailybot](https://dailybot.com) (YC S21)** | 🎤 **Founder of [Pereira Tech Talks](https://pereiratech.org)**
+📍 **Pereira, Colombia 🇨🇴** | 🤖 **CTO & Co-founder at [Dailybot](https://dailybot.com) (YC S21)** | 🎤 **Founder of [Pereira Tech Talks](https://pereiratechtalks.org)**
 
 📄 **[Full CV](https://xergioalex.com/cv)** · 🎯 **[Portfolio](https://xergioalex.com/portfolio)**
 
@@ -41,7 +41,7 @@ AI-powered collaboration platform where human teams and AI agents work together.
 
 Backed by **[Y Combinator (S21)](https://www.ycombinator.com/companies/dailybot)**. Working with a global remote team across engineering, product, and design.
 
-### 🎤 [Pereira Tech Talks](https://pereiratech.org) — Founder & Organizer
+### 🎤 [Pereira Tech Talks](https://pereiratechtalks.org) — Founder & Organizer
 
 The tech community I founded in 2017 to put my hometown on the map. A space where developers, designers, and entrepreneurs in Pereira, Colombia learn, connect, and grow together.
 

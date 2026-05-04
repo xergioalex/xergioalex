@@ -11,9 +11,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -24,6 +22,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF7A00?style=flat-square&logo=autodesk&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/-3D%20Printing-1F2632?style=flat-square&logo=cncf&logoColor=white)
@@ -50,7 +51,7 @@ The tech community I founded in 2017 to put my hometown on the map. A space wher
 
 Multilingual blog (EN/ES) on AI agents, mobile dev, AEO, trading, and product engineering. Built with Astro + Svelte + Tailwind — open source, agent-readable, and Lighthouse-tuned.
 
-**89+ posts** · **9 active series** · built-in Reveal.js slide system. → **[Read the blog](https://xergioalex.com/blog)** · **[Source](https://github.com/xergioalex/xergioalex.com)**
+**90+ posts** · **9 active series** · built-in Reveal.js slide system. → **[Read the blog](https://xergioalex.com/blog)** · **[Source](https://github.com/xergioalex/xergioalex.com)**
 
 ## Current Projects
 

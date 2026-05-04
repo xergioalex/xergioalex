@@ -57,6 +57,7 @@ Multilingual blog (EN/ES) on AI agents, mobile dev, AEO, trading, and product en
 
 - 😀 **[universal-emoji-parser](https://www.npmjs.com/package/universal-emoji-parser)** — npm package: parse Unicode and emoji codes into HTML using emojilib + Twemoji CDN. Powers emoji rendering at Dailybot scale
 - 🔍 **[search-text-highlight](https://www.npmjs.com/package/search-text-highlight)** — npm package: find substrings in text and wrap them with HTML — Unicode-safe, surrogate-pair aware
+- 🌐 **[pereiratechtalks.org](https://github.com/pereira-tech-talks/pereiratechtalks.com)** — Official site of the Pereira Tech Talks community — events, talks, and Hacktoberfest-friendly
 - 🧩 **[kmppttdynamics](https://github.com/xergioalex/kmppttdynamics)** — Kotlin Multiplatform app of icebreaker dynamics for Pereira Tech Talks meetups
 - 🎮 **[kmptapduelgame](https://github.com/xergioalex/kmptapduelgame)** — Kotlin Multiplatform reflex tap-duel game
 - 🗣️ **[kmpaivoicechat](https://github.com/xergioalex/kmpaivoicechat)** — Kotlin Multiplatform voice-chat client backed by an LLM

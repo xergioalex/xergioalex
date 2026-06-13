@@ -57,6 +57,15 @@ Multilingual blog (EN/ES) on AI agents, mobile dev, AEO, trading, and product en
 
 ## Current Projects
 
+### 🤖 AI Agent Tooling
+
+- 🧠 **[deepworkplan-skill](https://github.com/DailybotHQ/deepworkplan-skill)** — Installable agent skill pack that turns any repo AI-first and drives long, resumable Deep Work Plans across Claude Code, Cursor, Copilot & more
+- 📖 **[deepworkplan-website](https://github.com/DailybotHQ/deepworkplan-website)** — Website & methodology docs for Deep Work Plan (DWP) — a spec-driven, agent-agnostic approach to executing complex software work. Built with Astro ([deepworkplan.com](https://deepworkplan.com))
+- 💬 **[Dailybot agent-skill](https://github.com/DailybotHQ/agent-skill)** — Official Dailybot skill pack that lets coding agents send standup updates, check-ins and kudos, becoming visible contributors to team coordination
+- 🛠️ **[Dailybot cli](https://github.com/DailybotHQ/cli)** — Command-line interface for humans and AI agents to share progress, complete check-ins and collaborate via Dailybot across Slack, Teams, Discord & Google Chat
+
+### 📦 Libraries & Apps
+
 - 😀 **[universal-emoji-parser](https://www.npmjs.com/package/universal-emoji-parser)** — npm package: parse Unicode and emoji codes into HTML using emojilib + Twemoji CDN. Powers emoji rendering at Dailybot scale
 - 🔍 **[search-text-highlight](https://www.npmjs.com/package/search-text-highlight)** — npm package: find substrings in text and wrap them with HTML — Unicode-safe, surrogate-pair aware
 - 🌐 **[pereiratechtalks.org](https://github.com/pereira-tech-talks/pereiratechtalks.com)** — Official site of the Pereira Tech Talks community — events, talks, and Hacktoberfest-friendly
@@ -69,9 +78,21 @@ Multilingual blog (EN/ES) on AI agents, mobile dev, AEO, trading, and product en
 - 🌸 **[kathelopez.com](https://github.com/xergioalex/kathelopez.com)** — Personal site I built for Katherine Lopez
 - 🎨 **[sebastianmartinezvanegas.com](https://github.com/xergioalex/sebastianmartinezvanegas.com)** — Personal site I built for Sebastián Martínez Vanegas (Astro)
 
-## GitHub Activity
+## GitHub Activity & Stats
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/xergioalex)
+<div align="center">
+
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=xergioalex&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight)](https://github.com/xergioalex)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xergioalex&hide_border=true&theme=tokyonight)](https://github.com/xergioalex)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xergioalex&layout=compact&langs_count=10&hide_border=true&theme=tokyonight)](https://github.com/xergioalex)
+
+<!-- Daily activity over time -->
+[![Sergio's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=xergioalex&theme=tokyo-night&hide_border=true&area=true&days=90)](https://github.com/xergioalex)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xergioalex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/xergioalex)
+
+</div>
 
 ## Latest Blog Posts
 
@@ -111,6 +132,11 @@ Curated, multi-part deep dives — the format I use when one post isn't enough:
 [![Instagram](https://img.shields.io/badge/-@xergioalex-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/xergioalex/)
 [![Twitch](https://img.shields.io/badge/-xergioalex-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/xergioalex)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xergioalex)
+[![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/xergioalex)
+
+<sub>💖 If my open-source work or writing has helped you, consider [sponsoring me](https://github.com/sponsors/xergioalex) — it funds more tools and free content.</sub>
+
+![Profile views](https://komarev.com/ghpvc/?username=xergioalex&color=blueviolet&style=flat-square&label=Profile+views)
 
 ---
 

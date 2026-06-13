@@ -97,13 +97,13 @@ Multilingual blog (EN/ES) on AI agents, mobile dev, AEO, trading, and product en
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🦞 [Anatomy of a Lobster: How OpenClaw Actually Works](https://xergioalex.com/blog/openclaw-anatomy-of-a-lobster)
-- 📱 [Mobile Development in 2026: State of the Art and Where to Start Today](https://xergioalex.com/blog/mobile-development-landscape-2026)
-- ☁️ [The Agentic Web: Everything Cloudflare Launched in Agents Week 2026](https://xergioalex.com/blog/cloudflare-agents-week-2026)
-- 🦞 [OpenClaw: Your Assistant. Your Machine. Your Rules. — How It Became a Movement](https://xergioalex.com/blog/openclaw-your-assistant-your-machine-your-rules)
-- 📚 [Isaac Asimov and His Work: The Man Who Saw the Future Before Anyone Else](https://xergioalex.com/blog/isaac-asimov-and-his-work)
-- 🌌 [The Library of Tomorrow: Where Science Fiction Meets Reality](https://xergioalex.com/blog/library-of-tomorrow-introduction)
-- 🤖 [Claude Mythos: The Model Too Dangerous to Release](https://xergioalex.com/blog/claude-mythos-the-model-too-dangerous-to-release)
+- 🧩 [The Harness Layer: The System Around the Model](https://xergioalex.com/blog/the-harness-layer)
+- 🤖 [Claude Fable 5: The Model They Wouldn't Release Is Now in Your Hands](https://xergioalex.com/blog/claude-fable-5-mythos-unleashed)
+- 🛠️ [The Skill Layer: When Agents Stop Reinventing the Wheel](https://xergioalex.com/blog/the-skill-layer)
+- 🔒 [Supply Chain Attacks in the AI Era: The State of Open Source in 2026](https://xergioalex.com/blog/supply-chain-attacks-ai-era)
+- 🎚️ [Building a Multilingual Slide System Inside Astro with Reveal.js](https://xergioalex.com/blog/building-slide-system-inside-astro-revealjs)
+- 📊 [The Best Slides-as-Code Presentation Tools for Developers](https://xergioalex.com/blog/best-slides-as-code-presentation-tools)
+- 🔍 [Reaching 100 on isitagentready.com: What Your Site Needs in the Era of Agents](https://xergioalex.com/blog/aeo-reaching-100-isitagentready)
 <!-- BLOG-POST-LIST:END -->
 
 → **[Browse all posts](https://xergioalex.com/blog)**

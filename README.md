@@ -78,21 +78,9 @@ Multilingual blog (EN/ES) on AI agents, mobile dev, AEO, trading, and product en
 - 🌸 **[kathelopez.com](https://github.com/xergioalex/kathelopez.com)** — Personal site I built for Katherine Lopez
 - 🎨 **[sebastianmartinezvanegas.com](https://github.com/xergioalex/sebastianmartinezvanegas.com)** — Personal site I built for Sebastián Martínez Vanegas (Astro)
 
-## GitHub Activity & Stats
+## GitHub Activity
 
-<div align="center">
-
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=xergioalex&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight)](https://github.com/xergioalex)
-[![GitHub Streak](https://streak-stats.demolab.com?user=xergioalex&hide_border=true&theme=tokyonight)](https://github.com/xergioalex)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xergioalex&layout=compact&langs_count=10&hide_border=true&theme=tokyonight)](https://github.com/xergioalex)
-
-<!-- Daily activity over time -->
-[![Sergio's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=xergioalex&theme=tokyo-night&hide_border=true&area=true&days=90)](https://github.com/xergioalex)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xergioalex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/xergioalex)
-
-</div>
+[![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=xergioalex&hide_border=true)](https://github.com/xergioalex)
 
 ## Latest Blog Posts
 

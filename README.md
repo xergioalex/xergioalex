@@ -122,7 +122,7 @@ Curated, multi-part deep dives — the format I use when one post isn't enough:
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xergioalex)
 [![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/xergioalex)
 
-<sub>💖 If my open-source work or writing has helped you, consider [sponsoring me](https://github.com/sponsors/xergioalex) — it funds more tools and free content.</sub>
+💖 If my open-source work or writing has helped you, consider **[sponsoring me](https://github.com/sponsors/xergioalex)** — it funds more tools and free content.
 
 ![Profile views](https://komarev.com/ghpvc/?username=xergioalex&color=blueviolet&style=flat-square&label=Profile+views)
 
